@@ -1,5 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ED092C&height=120&section=header"/>
-### Olá! eu sou o Gabriel Taschner ✌️🤙
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7013bd&height=120&section=header"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7013bd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Taschner+Eddine;I'm+19+years+old;I'm+from+Paraná+-+Brazil+;I+study+Design+and+Prototyping;AKA+Software+Engineerin+at+UGV;Feel+Welcome!+:%29)
 
 [![Blog](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ztaschner)
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zTaschner)
