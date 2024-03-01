@@ -15,7 +15,8 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabriel_taschner)
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="s" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img align="center" alt="s" src="![image](https://github.com/zTaschner/zTaschner/assets/121367742/a2068656-664b-427e-b4b3-0cb378f24a60)" />
+<img align="center" alt="s" src="![image](https://github.com/zTaschner/zTaschner/assets/121367742/a2068656-664b-427e-b4b3-0cb378f24a60)" />  
  </div>
  <br/>
 
