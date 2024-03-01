@@ -9,8 +9,8 @@
 <br><br>
 
 <div align="center">
-<img src="lemonpunch.png" />
-<img src="Lemonopen.png" />
+ <img src="lemonpunch.png" />
+ <img src="Lemonopen.png" />
 </div>
 <br><br>
 
@@ -20,6 +20,7 @@
  <br/>
 
  Desde criança apaixodo por tecnologia,  
+ 
 <div align="center">
  
  [![Blog](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ztaschner)
