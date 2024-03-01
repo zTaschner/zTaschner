@@ -39,7 +39,7 @@
 
 <br><br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=af51fc&size=35&center=true&vCenter=true&width=1000&lines=,+meu+nome+é+Gabriel+Taschner+Eddine;Eu+tenho+19+anos;Eu+sou+de+Santa-Catarina+Brasil+;Eu+estudo+Design+e+Prototipagem;E+curso+Engenharia+de+Software+na+UGV;Seja+Bem+Vindo!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=af51fc&size=35&center=true&vCenter=true&width=1000&lines=Em+busca+de+conhecimento!+:%29)
 
 
  <br/>
