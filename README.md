@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=af51fc&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=af51fc&size=35&center=true&vCenter=true&width=1000&lines=Salve!,+meu+nome+é+Gabriel+Taschner+Eddine;Eu+tenho+19+anos;Eu+sou+de+Santa-Catarina+Brasil+;Eu+estudo+Design+e+Prototipagem;E+curso+Engenharia+de+Software+na+UGV;Seja+Bem+Vindo!+:%29)<br/>
-<br>
 
 <div align="center">
 <img src="bala.png" />
