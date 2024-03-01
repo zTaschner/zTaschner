@@ -9,9 +9,11 @@
 <br><br>
 
 <div align="center">
- <img src="lemonpunch.png" />
- <img src="Lemonopen.png" />
+ 
+| ![Imagem 1](lemonpunch.png) | ![Imagem 2](Lemonopen.png) |
 </div>
+
+
 <br><br>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7013bd&size=35&center=true&vCenter=true&width=1000&lines=Tecnologias+que+eu+uso+no+meu+dia+a+dia:%29)<br/>
