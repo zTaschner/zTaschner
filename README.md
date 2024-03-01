@@ -16,7 +16,7 @@
 
 <div align="center">
  
- [![Blog](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]
+ [![Blog(https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 </div>
 <br><br>
 
